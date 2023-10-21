@@ -4,8 +4,8 @@
 Pre-requisites: 
 - A code editor, [VSCode](https://code.visualstudio.com/download) is my favorite
 -  [Git](https://git-scm.com/downloads) (use default settings when installing)
--   Node.js](https://nodejs.org/en/download/current) (use default settings when installing)
--   Create a GitHub account](https://github.com/join) if you do not have one.
+-  [Node.js](https://nodejs.org/en/download/current) (use default settings when installing)
+-  [Create a GitHub account](https://github.com/join) if you do not have one.
 
 
 
